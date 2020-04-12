@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>等风丶来</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://ericfeix.gitee.io/"/>
+  <updated>2020-04-10T13:55:37.757Z</updated>
+  <id>https://ericfeix.gitee.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电信光猫破解</title>
+    <link href="https://ericfeix.gitee.io/2020/03/28/2020-03-28-po-jie-guang-mao/"/>
+    <id>https://ericfeix.gitee.io/2020/03/28/2020-03-28-po-jie-guang-mao/</id>
+    <published>2020-03-27T16:00:00.000Z</published>
+    <updated>2020-04-10T13:55:37.757Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-导出配置文件&quot;&gt;&lt;a href=&quot;#1-导出配置文件&quot; class=&quot;headerlink&quot; title=&quot;1.导出配置文件&quot;&gt;&lt;/a&gt;1.导出配置文件&lt;/h2&gt;&lt;p&gt;光猫插上U盘 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="网络安全" scheme="https://ericfeix.gitee.io/categories/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/"/>
+    
+    
+      <category term="破解" scheme="https://ericfeix.gitee.io/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python pip</title>
+    <link href="https://ericfeix.gitee.io/2020/03/19/2020-03-19-python-pip-install-an-zhuang-guo-nei-yuan/"/>
+    <id>https://ericfeix.gitee.io/2020/03/19/2020-03-19-python-pip-install-an-zhuang-guo-nei-yuan/</id>
+    <published>2020-03-18T16:00:00.000Z</published>
+    <updated>2020-04-10T13:58:16.971Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;用pip安装一些包时，下载速度慢还有可能失败，所以用国内源&lt;/p&gt;
+&lt;p&gt;阿里云 &lt;a href=&quot;http://mirrors.aliyun.com/pypi/simple/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Python" scheme="https://ericfeix.gitee.io/categories/Python/"/>
+    
+    
+      <category term="Python" scheme="https://ericfeix.gitee.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>win10安装python3.7</title>
+    <link href="https://ericfeix.gitee.io/2019/09/18/2019-09-18-python-an-zhuang-jiao-cheng/"/>
+    <id>https://ericfeix.gitee.io/2019/09/18/2019-09-18-python-an-zhuang-jiao-cheng/</id>
+    <published>2019-09-17T16:00:00.000Z</published>
+    <updated>2020-04-12T07:53:10.719Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;1-官网下载python3-7&quot;&gt;&lt;a href=&quot;#1-官网下载python3-7&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="软件的安装与使用" scheme="https://ericfeix.gitee.io/categories/%E8%BD%AF%E4%BB%B6%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
+    
+    
+      <category term="Python" scheme="https://ericfeix.gitee.io/tags/Python/"/>
+    
+      <category term="开发技巧" scheme="https://ericfeix.gitee.io/tags/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/"/>
+    
+  </entry>
+  
+</feed>
