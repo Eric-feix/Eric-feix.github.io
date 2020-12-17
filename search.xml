@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>win10安装python3.7</title>
-    <url>/2019/09/18/2019-09-18-python-an-zhuang-jiao-cheng/</url>
-    <content><![CDATA[<h2 id="1-官网下载python3-7"><a href="#1-官网下载python3-7" class="headerlink" title="1.官网下载python3.7"></a>1.官网下载python3.7</h2><ol>
-<li>在python的官网下载python版本，根据自己对应的系统版本，我的是64位的，就下载64位对应的安装包（如下图：Windows x86-64 executable installer）。</li>
-</ol>
-<p>官网下载地址如下：<br><a href="https://www.python.org/downloads/windows/" target="_blank" rel="noopener">python 官网下载</a></p>
-<p>注意事项：<br>    python下载时也可以下载zip的版本（Windows x86-64 embeddable zip file），但是下载后有时发现会出现很多dll文件丢失情况，还需要去重新修复这些问题，会比较麻烦，所以还是建议下载Windowsx86-64 executable installer版本。</p>
-<h2 id="2-python3-7安装"><a href="#2-python3-7安装" class="headerlink" title="2.python3.7安装"></a>2.python3.7安装</h2><p>1.下载完成后双击执行下载的exe程序，进入安装界面。<br>  可以选择自定义安装，选择自己想要的目录</p>
-<p>2.在选择路径安装时，可以把下方的“Add Python  3.6  toPATH”勾选上，这个就直接默认把用户变量添加上了，后续不用再添加</p>
-<p>3.选择好路径，其他选择默认即可，点击下一步完成安装</p>
-<p>4.安装完成后，可以在cmd中执行python-V查看到成功安装的版本</p>
-<h2 id="3-IDEA使用"><a href="#3-IDEA使用" class="headerlink" title="3.IDEA使用"></a>3.IDEA使用</h2><p>  安装完成之后，在开始菜单，找到 Python IDLE，双击运行，就可以在我们的idle中，调试我们的python代码了。</p>
-<h2 id="4-其他"><a href="#4-其他" class="headerlink" title="4.其他"></a>4.其他</h2><h3 id="在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种："><a href="#在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种：" class="headerlink" title="在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种："></a>在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种：</h3><p>1.PyCharm是一种Python IDE,带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具。</p>
-<p>  下载地址：<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">pycharm官网下载</a></p>
-<p>2.Sublime Text,一款轻量级编辑器，不仅仅提供python编译，上面可以运行多种语言。画面精简美观，功能特别强大。但需要自己安装一些插件，对于初次接触的人可能比较麻烦。</p>
-<p>  下载地址：<a href="http://www.sublimetext.com/3" target="_blank" rel="noopener">subline text3官网下载</a></p>
-<p>python环境的基本搭建已近完成，后续我们会介绍python的相关语法使用。</p>
-]]></content>
-      <categories>
-        <category>软件的安装与使用</category>
-      </categories>
-      <tags>
-        <tag>Python</tag>
-        <tag>开发技巧</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>python pip</title>
     <url>/2020/03/19/2020-03-19-python-pip-install-an-zhuang-guo-nei-yuan/</url>
     <content><![CDATA[<p>用pip安装一些包时，下载速度慢还有可能失败，所以用国内源</p>
@@ -52,6 +25,33 @@
       </categories>
       <tags>
         <tag>Python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>win10安装python3.7</title>
+    <url>/2019/09/18/2019-09-18-python-an-zhuang-jiao-cheng/</url>
+    <content><![CDATA[<h2 id="1-官网下载python3-7"><a href="#1-官网下载python3-7" class="headerlink" title="1.官网下载python3.7"></a>1.官网下载python3.7</h2><ol>
+<li>在python的官网下载python版本，根据自己对应的系统版本，我的是64位的，就下载64位对应的安装包（如下图：Windows x86-64 executable installer）。</li>
+</ol>
+<p>官网下载地址如下：<br><a href="https://www.python.org/downloads/windows/" target="_blank" rel="noopener">python 官网下载</a></p>
+<p>注意事项：<br>    python下载时也可以下载zip的版本（Windows x86-64 embeddable zip file），但是下载后有时发现会出现很多dll文件丢失情况，还需要去重新修复这些问题，会比较麻烦，所以还是建议下载Windowsx86-64 executable installer版本。</p>
+<h2 id="2-python3-7安装"><a href="#2-python3-7安装" class="headerlink" title="2.python3.7安装"></a>2.python3.7安装</h2><p>1.下载完成后双击执行下载的exe程序，进入安装界面。<br>  可以选择自定义安装，选择自己想要的目录</p>
+<p>2.在选择路径安装时，可以把下方的“Add Python  3.6  toPATH”勾选上，这个就直接默认把用户变量添加上了，后续不用再添加</p>
+<p>3.选择好路径，其他选择默认即可，点击下一步完成安装</p>
+<p>4.安装完成后，可以在cmd中执行python-V查看到成功安装的版本</p>
+<h2 id="3-IDEA使用"><a href="#3-IDEA使用" class="headerlink" title="3.IDEA使用"></a>3.IDEA使用</h2><p>  安装完成之后，在开始菜单，找到 Python IDLE，双击运行，就可以在我们的idle中，调试我们的python代码了。</p>
+<h2 id="4-其他"><a href="#4-其他" class="headerlink" title="4.其他"></a>4.其他</h2><h3 id="在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种："><a href="#在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种：" class="headerlink" title="在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种："></a>在后续的开发中我们会经常使用其他的编辑器，而不是python自带的，推荐以下几种：</h3><p>1.PyCharm是一种Python IDE,带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具。</p>
+<p>  下载地址：<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noopener">pycharm官网下载</a></p>
+<p>2.Sublime Text,一款轻量级编辑器，不仅仅提供python编译，上面可以运行多种语言。画面精简美观，功能特别强大。但需要自己安装一些插件，对于初次接触的人可能比较麻烦。</p>
+<p>  下载地址：<a href="http://www.sublimetext.com/3" target="_blank" rel="noopener">subline text3官网下载</a></p>
+<p>python环境的基本搭建已近完成，后续我们会介绍python的相关语法使用。</p>
+]]></content>
+      <categories>
+        <category>软件的安装与使用</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>开发技巧</tag>
       </tags>
   </entry>
   <entry>
